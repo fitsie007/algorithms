@@ -7,3 +7,4 @@ This repository features algorithms written for my algorithms class at Florida I
 * [Topological Sort](java/topologicalSort)
 * [Matrix Chain Multiplication Ordering](java/matrixChainMult)
 * [Backtracking](java/backtracking)
+* [Simple Quick sort](java/quicksort)
